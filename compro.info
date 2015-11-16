@@ -48,7 +48,6 @@ dependencies[] = smtp
 dependencies[] = transliteration
 dependencies[] = title
 dependencies[] = file_entity
-dependencies[] = xmlsitemap
 
 ; Custom
 dependencies[] = compro_custom
