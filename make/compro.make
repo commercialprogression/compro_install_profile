@@ -36,6 +36,7 @@ projects[blockify][subdir] = contrib
 projects[google_analytics][subdir] = contrib
 projects[title][subdir] = contrib
 projects[file_entity][subdir] = contrib
+projects[xmlsitemap][subdir] = contrib
 
 ; Versions
 ; ----------
